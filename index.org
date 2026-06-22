@@ -1,4 +1,6 @@
 #+title: Redirecting...
+#+author: Sidney PEPO
+#+date: [2026-06-22 Mon]
 #+html_head_extra: <meta http-equiv="refresh" content="3; URL='https://sidneypepo.com'"/>
 
 * Redirecting...
